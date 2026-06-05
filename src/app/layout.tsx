@@ -9,8 +9,8 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Nyemilinajah | Premium Tradisional Snack",
-  description: "Manisnya tradisi dalam setiap gigitan. Untir-untir dan Kuping Gajah premium renyah, legit, bikin ketagihan.",
+  title: "Nyemilinajah | Link Bio",
+  description: "Temukan semua channel resmi Nyemilinajah dalam satu tempat.",
   keywords: ["snack", "jajanan tradisional", "untir-untir", "kuping gajah", "nyemilinajah", "cemilan", "cemilan enak"],
 };
 

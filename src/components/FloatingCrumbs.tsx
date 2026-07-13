@@ -25,6 +25,7 @@ export default function FloatingCrumbs() {
       duration: Math.random() * 20 + 10,
       delay: Math.random() * 5,
     }));
+    // eslint-disable-next-line
     setCrumbs(newCrumbs);
   }, []);
 

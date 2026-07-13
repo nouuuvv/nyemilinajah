@@ -71,8 +71,10 @@ export default function Products() {
                         ? "/images/untir.jpeg"
                         : "/images/kuping.jpeg"
                     }
-                    alt={product.name}
+                    alt={`${product.name} - Jajanan Tradisional Khas Banyuwangi`}
                     className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                    loading="lazy"
+                    decoding="async"
                   />
 
                   {/* <div className="z-10 text-brand-beige/50 font-medium text-lg border border-brand-beige/20 px-6 py-3 rounded-full backdrop-blur-sm">

@@ -1,0 +1,3 @@
+Contact: https://wa.me/6285335694802
+Preferred-Languages: id, en
+Canonical: https://www.nyemilinajah.my.id/.well-known/security.txt

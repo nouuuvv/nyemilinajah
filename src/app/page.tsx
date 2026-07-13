@@ -6,7 +6,6 @@ import {
   MessageCircle,
   ShoppingBag,
   Share2,
-  Copy,
   CheckCircle2,
   MapPin
 } from "lucide-react";
@@ -129,8 +128,7 @@ export default function OmnichannelPage() {
         >
           <div className="w-24 h-24 rounded-full p-1 bg-gradient-to-tr from-brand-caramel to-brand-golden mb-4 shadow-[0_0_30px_rgba(229,153,20,0.3)]">
             <div className="w-full h-full rounded-full bg-brand-dark-card border border-brand-dark flex items-center justify-center overflow-hidden">
-              <img src="/images/icon-nyemilin.svg" alt="Nyemilinajah" className="w-full h-full object-cover" />
-            </div>
+              <img src="/images/icon-nyemilin.svg" alt="Logo Nyemilinajah - Jajanan Tradisional Premium Banyuwangi" className="w-full h-full object-cover" />            </div>
           </div>
 
           <h1 className="text-2xl font-bold text-brand-beige mb-1 tracking-tight">Nyemilinajah</h1>
